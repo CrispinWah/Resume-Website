@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lightbox.js-react": "^0.8.3",
     "react": "^18.2.0",
+    "react-doc-viewer": "^0.1.5",
     "react-dom": "^18.2.0",
+    "react-photo-album": "^2.3.0",
+    "react-photo-view": "^1.2.3",
     "react-router-dom": "^6.15.0",
     "sass": "^1.65.1"
   },
