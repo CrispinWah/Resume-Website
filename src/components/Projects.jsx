@@ -4,7 +4,7 @@ import Pdf2 from '../files/Product Backlog.pdf';
 import Pdf3 from '../files/KanbanSprint.png';
 import Pdf4 from '../files/CAPATech_UseCase_Outlines_Combined.pdf';
 import Pdf5 from '../files/CAPA Tech - Use Cases and User Story AlignmentSCRI.pdf';
-import Pdf6 from '../files/Full_Map_Admin_PAges.pdf';
+import Pdf6 from '../files/Full_Map_Admin_Pages.pdf';
 import Pdf7 from '../files/Abenes_Login_Activity_Diagram.png';
 import Pdf8 from '../files/Abenes_Login_Analysis_Model.png'
 import Pdf9 from '../files/CAPATech_Sequence-Diagram_Chance_Abenes_Submit-New-Hours-For-Review.png';
