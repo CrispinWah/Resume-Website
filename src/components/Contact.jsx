@@ -23,6 +23,10 @@ const Contact = () => {
         <p>Instagram: <a href="https://www.instagram.com/marche_la_lune/" target="_blank" rel="noopener noreferrer">https://www.instagram.com/marche_la_lune/</a>
 
             </p>
+
+            <p>GitHub: <a href="https://github.com/CrispinWah" target="_blank" rel="noopener noreferrer">https://github.com/CrispinWah</a>
+
+</p>
          </div>
         </div>
         </>
