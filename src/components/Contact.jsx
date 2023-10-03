@@ -1,5 +1,5 @@
 import React from "react";
-
+import Resume from '../files/ChanceSeniorResume v6.pdf';
 const Contact = () => {
 
 
@@ -25,6 +25,9 @@ const Contact = () => {
             </p>
 
             <p>GitHub: <a href="https://github.com/CrispinWah" target="_blank" rel="noopener noreferrer">https://github.com/CrispinWah</a>
+
+</p>
+<p>Resume: <a href={Resume} target="_blank" rel="noopener noreferrer">Resume.pdf</a>
 
 </p>
          </div>
