@@ -1,7 +1,7 @@
 import "./my-sass.scss"
-import Home from "./components/Home"
-import Project from "./components/Projects"
-import Contact from "./components/Contact"
+import Home from "./components/Home.jsx"
+import Project from "./components/Projects.jsx"
+import Contact from "./components/Contact.jsx"
 import { BrowserRouter, Routes, Route, NavLink } from "react-router-dom";
 
 export default function App() {
