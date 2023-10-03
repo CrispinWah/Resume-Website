@@ -21,7 +21,9 @@ import Pdf19 from '../files/Project Deliverable 6 - Deployment Plan.pdf';
 import Pdf20 from '../files/CAPA_Tech_TestSummaryReport.pdf';
 import Pdf21 from '../files/CAPATech_UserManualUpdated.pdf';
 import Pdf22 from '../files/CAPATech_Final-Report.pdf';
+ //ignore this LMAO i will find a way to clean this up --------------
 
+ 
 const Project = () =>  {
     return (
 
