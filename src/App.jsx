@@ -1,6 +1,6 @@
 import "./my-sass.scss"
 import Home from "./components/Home"
-import Project from "./components/Projects"
+import Project from "./components/projects"
 import Contact from "./components/Contact"
 import { BrowserRouter, Routes, Route, NavLink } from "react-router-dom";
 
