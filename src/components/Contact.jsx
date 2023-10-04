@@ -18,16 +18,24 @@ const Contact = () => {
             Phone: 904-629-8193
        </p>
        <p>
-        LinkedIn: <a href="https://www.linkedin.com/in/chance-abenes-748b7b223/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/chance-abenes-748b7b223/</a>
+        <a href="https://www.linkedin.com/in/chance-abenes-748b7b223/" target="_blank" rel="noopener noreferrer">
+        <button type="button"> LinkedIn</button>
+        </a>
        </p>
-        <p>Instagram: <a href="https://www.instagram.com/marche_la_lune/" target="_blank" rel="noopener noreferrer">https://www.instagram.com/marche_la_lune/</a>
+        <p><a href="https://www.instagram.com/marche_la_lune/" target="_blank" rel="noopener noreferrer">
+        <button type="button"> Instagram</button>
+        </a>
 
             </p>
 
-            <p>GitHub: <a href="https://github.com/CrispinWah" target="_blank" rel="noopener noreferrer">https://github.com/CrispinWah</a>
+            <p><a href="https://github.com/CrispinWah" target="_blank" rel="noopener noreferrer">
+            <button type="button">GitHub</button>
+            </a>
 
 </p>
-<p>Resume: <a href={Resume} target="_blank" rel="noopener noreferrer">Resume.pdf</a>
+<p><a href={Resume} target="_blank" rel="noopener noreferrer">
+<button type="button">Resume</button>
+</a>
 
 </p>
          </div>
