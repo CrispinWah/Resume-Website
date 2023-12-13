@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from '../files/ChanceSeniorResume v6.pdf';
+import Resume from '../files/ChanceSeniorResume v7.pdf';
 const Contact = () => {
 
 
